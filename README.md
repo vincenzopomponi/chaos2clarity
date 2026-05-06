@@ -159,12 +159,12 @@ The coding notebooks are intentionally educational and minimal, focusing on clar
 chaos2clarity/
 │
 ├── lecture1/
-│   ├── slides/
-│   └── notes/
+│   ├── notes/
+│   └── slides/
 │
 ├── lecture2/
-│   ├── slides/
+│   ├── notebooks/
 │   ├── notes/
-│   └── notebooks/
+│   └── slides/
 │
 └── README.md
