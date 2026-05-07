@@ -1,6 +1,6 @@
 # chaos2clarity
 
-Lecture materials for the sessions held on **May 6** and **May 13, 2026**, at :contentReference[oaicite:0]{index=0} by PhD student **Vincenzo Pomponi**.
+Lecture materials for the sessions held on **May 6** and **May 13, 2026**, Politecnico di Milano by PhD student **Vincenzo Pomponi**.
 
 This repository collects the complete teaching material, mathematical derivations, theoretical notes, and practical Python implementations presented during two lectures on **Diffusion Models**, designed for master students interested in modern generative AI.
 
