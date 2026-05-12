@@ -82,6 +82,20 @@ Four complete, runnable neural network architectures for diffusion models, with 
 
 ---
 
+### 05 — Diffusion Policy
+
+Complete, runnable architecture for diffusion model training, from Ho et al. 2020.
+
+**Covered topics:**
+- **Load Push-T dataset** — loading and preprocessing the real Push-T manipulation dataset, including image observations and action trajectories.
+- **Dataset normalization** — trajectory/action normalization and preparation of temporal action chunks for diffusion-based policy learning.
+- **Diffusion Policy architecture definition** — implementation of the conditional diffusion model used to predict denoising actions over trajectory horizons.
+- **Sinusoidal timestep embeddings** — positional/timestep encoding for conditioning the diffusion process.
+- **Forward diffusion process** — gradual corruption of robot trajectories with Gaussian noise according to the DDPM formulation.
+- **Noise prediction objective** — training the network to estimate the injected noise using the standard diffusion loss.
+
+---
+
 ## Requirements
 
 ```
