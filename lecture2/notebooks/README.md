@@ -84,7 +84,7 @@ Four complete, runnable neural network architectures for diffusion models, with 
 
 ### 05 — Diffusion Policy
 
-Complete, runnable architecture for diffusion model training, from Ho et al. 2020.
+Complete, runnable architecture for diffusion model training, from Chi et al. 2023.
 
 **Covered topics:**
 - **Load Push-T dataset** — loading and preprocessing the real Push-T manipulation dataset, including image observations and action trajectories.
